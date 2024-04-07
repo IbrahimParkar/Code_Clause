@@ -6,7 +6,7 @@ This project focuses on predicting customer churn in a telecom company. The goal
 The dataset used for this project contains the following variables:
 
 CustomerID: Unique identifier for each customer
-Gender: Gender of the customer
+Gender: The gender of the customer
 SeniorCitizen: Whether the customer is a senior citizen or not
 Partner: Whether the customer has a partner or not
 Dependents: Whether the customer has dependents or not
@@ -50,7 +50,7 @@ Through this project, we gained insights into the factors influencing customer c
 Key findings:
 
 1. Customers with a longer tenure and those with two-month contracts are less likely to churn.
-2. Having DSL internet service reduces the probability of churn.
+2. Having a DSL internet service reduces the probability of churn.
 3. Total charges, monthly contracts, fiber optic internet services, and seniority can lead to higher churn rates.
 
 Further exploration and analysis are recommended to understand the underlying reasons behind these patterns. Possible hypotheses include:
@@ -58,7 +58,7 @@ Further exploration and analysis are recommended to understand the underlying re
 1. Total charges: Customers with lower total charges may be more price-sensitive and easily swayed by competitive offers.
 2. Monthly contracts: Customers on monthly contracts have more flexibility to switch providers without penalties, making them more prone to exploring other options.
 3. Fiber optic internet service: Although fiber optic services offer faster speeds, there could be underlying issues such as inconsistent service quality or higher pricing associated with fiber optic plans, leading customers to seek alternatives.
-4. Seniority: It is possible that senior customers face unique challenges or preferences that contribute to a higher churn rate. This could include changing needs, competitive offers targeting senior citizens, or dissatisfaction with the services provided.
+4. Seniority: Senior customers may face unique challenges or preferences that contribute to a higher churn rate. This could include changing needs, competitive offers targeting senior citizens, or dissatisfaction with the services provided.
 
 Further analysis, customer surveys, and data exploration will provide a deeper understanding of these factors and enable the telecom company to take proactive measures to reduce churn and improve customer retention.
 
